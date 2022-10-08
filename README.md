@@ -1,4 +1,3 @@
-### Hi there 👋
 
 <!--
 **Proshyn-Volodymyr/Proshyn-Volodymyr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -25,6 +24,7 @@ Here are some ideas to get you started:
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+    <a href="https://www.flaticon.com/free-icons/telegram" title="telegram icons">Telegram icons created by Freepik - Flaticon</a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
