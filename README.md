@@ -13,18 +13,22 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<h1 align="center">Hi 👋, I'm Proshyn Volodymyr</h1>
+<div align="center">
+    <h1 align="center">Hi 👋, I'm Proshyn Volodymyr</h1>
 <h3 align="center">A future java developer from Ukraine</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=proshyn-volodymyr&label=Profile%20views&color=0e75b6&style=flat" alt="proshyn-volodymyr" /> </p>
 
 <!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=proshyn-volodymyr" alt="proshyn-volodymyr" /></a> </p> -->
-
-- 🌱 I’m currently learning **Java, Spring, GIT, HTML, CSS, JavaScript**
+<p align="left">
+    - 🌱 I’m currently learning **Java, Spring, GIT, HTML, CSS, JavaScript**
+</p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-    <img src="https://www.flaticon.com/free-icons/telegram" title="telegram icons">Telegram icons created by Freepik - Flaticon</img>
+    <img src="https://user-images.githubusercontent.com/108952970/194712670-6af7da17-9cf5-4a18-9d60-20c0fede7a56.png" width="40" height="40"></img>
+    <img src="https://user-images.githubusercontent.com/108952970/194713061-99244536-d255-45c5-872f-ec87d1392c6b.png" width="40" height="40"></img>
+
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -38,3 +42,5 @@ Here are some ideas to get you started:
 
 <div><a target="_blank" rel="noopener noreferrer" href="https://github.com/thepiyushmalhotra/thepiyushmalhotra/blob/output/github-contribution-grid-snake.svg"><img src="https://github.com/thepiyushmalhotra/thepiyushmalhotra/raw/output/github-contribution-grid-snake.svg" alt="Snake animation" style="max-width: 100%;"></a>
 </div>
+</div>
+
